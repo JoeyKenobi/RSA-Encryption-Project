@@ -1,0 +1,10 @@
+2023-04-18 20:40:38,462 - INFO - RSA Encryption Program
+2023-04-18 20:40:41,166 - INFO - Generated RSA key pair:
+2023-04-18 20:40:41,166 - INFO - Public key (n, e): (159517, 38853)
+2023-04-18 20:40:41,166 - INFO - Private key (n, d): (159517, 8461)
+2023-04-18 20:40:41,166 - INFO - Encrypted text: 15833 15833 15833 15833
+2023-04-18 20:46:34,994 - INFO - RSA Encryption Program
+2023-04-18 20:46:37,511 - INFO - Generated RSA key pair:
+2023-04-18 20:46:37,511 - INFO - Public key (n, e): (328609, 310307)
+2023-04-18 20:46:37,511 - INFO - Private key (n, d): (328609, 54171)
+2023-04-18 20:46:37,511 - INFO - Encrypted text: 286718 286718
